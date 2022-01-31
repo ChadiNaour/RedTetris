@@ -63,7 +63,7 @@ export const randomTetromino = () => {
     // console.log("in here")
     const tetrominos = 'IJLOSTZ';
     const randTetromino = tetrominos[Math.floor(Math.random() * tetrominos.length)];
-    console.log(randTetromino);
+    // console.log(randTetromino);
     // console.log(randTetromino.shape);
     // console.log(randTetromino.color);
 
