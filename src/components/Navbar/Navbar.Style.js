@@ -11,8 +11,9 @@ export const StyledNav = styled.nav`
     .list {
         width: 90%;
         height: 100%;
+        // background-color: green;
         display: flex;
-        justify-content: space-between;
+        justify-content: center;
         align-items: center;
         margin: 0 auto;
         &--element {

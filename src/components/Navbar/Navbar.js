@@ -11,14 +11,14 @@ const Navbar = () => {
                         </span>
                     </p>
                 </li>
-                <li className="list--element">
+                {/* <li className="list--element">
                     <li className="profile">
                         <div className="banyola">
                             <p className="letter">f</p>
                         </div>
                         <p className="username">farwila</p>
                     </li>
-                </li>
+                </li> */}
             </ul>
         </StyledNav>
     );
